@@ -113,14 +113,10 @@ a {
 	padding:0px 25px;
 	vertical-align:middle;
 	
-	font-size:20px; /* applies to all lines except first */
+	font-size:2.5em;
 	line-height:1em;
 	font-weight:normal;
 	color:#145E73;
-}
-.slidetitle:first-line {
-	font-size:36px; /* TODO: 24px? */
-	line-height:32px;
 }
 
 .main {
